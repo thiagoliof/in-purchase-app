@@ -48,10 +48,10 @@ pod install
 ```
 
 Open your Xcode, select the Any iOS Device (arm64) option
-![xcode image](https://raw.githubusercontent.com/thiagoabreuch2/recurly-android-and-ios/main/xcode.png?token=GHSAT0AAAAAAB3MAVZMDWMJW6D5EM24HAU6Y4Q5AXA "xcode image")
+![xcode image](https://raw.githubusercontent.com/thiagoabreuch2/recurly-android-and-ios/main/xcode.png?token=GHSAT0AAAAAAB3MAVZNTLQ7XSUMINH2SFCYY4Q5JEA "xcode image")
 
 Then click Product / Build on the top menu
-![xcode image](https://raw.githubusercontent.com/thiagoabreuch2/recurly-android-and-ios/main/buildiOS.png?token=GHSAT0AAAAAAB3MAVZMBEPPRPBU47L5B5GWY4Q5B3Q "xcode image")
+![xcode image](https://raw.githubusercontent.com/thiagoabreuch2/recurly-android-and-ios/main/buildiOS.png?token=GHSAT0AAAAAAB3MAVZM2RJK72MPAM7HXPKSY4Q5JWA "xcode image")
 
 
 
