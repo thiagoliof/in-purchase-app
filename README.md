@@ -1,6 +1,8 @@
 # Documentation
 ## In-App purchasing running on iOS and Android through React Native
 
+![alt text](https://raw.githubusercontent.com/thiagoliof/in-purchase-app/main/main.png)
+
 # Index
 
 - Starting Project to Android (Emulator)
@@ -39,7 +41,7 @@ pod install
 yarn install
 yarn ios
 ```
-In the iOS simulator Apple uses the sandbox environment with StoreKit, that is, in the Simulator the App does not go to the cloud to send some information. Everything happens on the machine itself and even the signatures are fake (I know that the initial idea was to test everything on the apple cloud, but this is the expected behavior said by the documentation)
+In the iOS simulator Apple uses the sandbox environment with StoreKit, that is, in the Simulator the App does not go to the cloud to send some information. Everything happens on the machine itself and even the signatures are fake
 
 ## Compiling the project for iOS (TestFlight)
 ```sh
